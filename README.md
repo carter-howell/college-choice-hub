@@ -1,6 +1,6 @@
 # College Choice Hub
 
-Status: Completed software archive project
+Status: Completed web application
 
 I built College Choice Hub as a student-facing web app so students could share and look up where classmates planned to attend college. The original version used PHP, SQL, and AJAX, then I later migrated it to Firebase hosting/backend services.
 
@@ -16,9 +16,9 @@ This was one of my earlier larger web projects. It focused on a practical studen
 - Later migration: Firebase hosting and backend services
 - Interface goal: simple lookup and sharing of college preference information
 
-## Status Notes
+## What I Learned
 
-I keep this repo as an archive record for an older software project. It shows early web-development experience and project follow-through, but it is secondary to my current electrical-engineering, embedded, robotics, and PCB work.
+This project helped me practice building a simple full-stack workflow around a real student use case. The migration from PHP/SQL/AJAX to Firebase also gave me experience moving an older app toward a lower-maintenance hosted setup.
 
 ## Portfolio
 
